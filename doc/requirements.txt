@@ -1,7 +1,8 @@
 -r ../requirements.txt
-sphinx_rtd_theme
-nbsphinx
-jupyter_client
-mock
-notebook
-nbformat
+Sphinx==3.5.3
+sphinx_rtd_theme==0.5.2
+nbsphinx==0.8.2
+jupyter_client==6.1.13
+mock==4.0.3
+notebook==6.3.0
+nbformat==5.1.3
